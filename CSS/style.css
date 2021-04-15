@@ -1,9 +1,9 @@
 *{
     box-sizing: border-box;
 }
-body{
-    
-}
+
+
+
 header{
     margin-bottom: 20px;
 }
@@ -24,4 +24,8 @@ width: 20 px;
 }
 #two {
     float: right;
+}
+article {
+background-image: url(image\list-bg.png);
+
 }
