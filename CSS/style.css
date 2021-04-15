@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+}
+header{
+    margin-bottom: 20px;
+}
+#one img{
+width: 20 px;
+}
+#one h1{
+    
+    padding-left: 5px;
+    display: inline-block;
+    
+}
+#one p{
+    
+    display: block;
+    padding-left: 5px;
+    font-size: 10px;
+}
+#two {
+    float: right;
+}
