@@ -99,7 +99,7 @@ article p{
     position: relative;
     margin: 20px;
     text-align: center;
-    color: darkgrey;
+    color: rgb(126, 123, 123);
     font-family: 'Russo One', sans-serif;
 }
 form{
@@ -124,7 +124,7 @@ main div img{
 button{
     width: 170px;
     height: 40px;
-    background-color: rgb(207, 83, 34);
+    background-color: rgb(189, 74, 28);
     position: absolute;
     bottom: 0;
     right:20px;
@@ -152,7 +152,7 @@ main div p{
 footer{
     text-align: center;
     
-    color: darkgrey;
+    color: rgb(126, 122, 122);
   
 
 }
